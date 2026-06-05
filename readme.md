@@ -617,28 +617,28 @@ Canceled Order Rate % = DIVIDE(\[Canceled Orders], \[Total Orders], 0)
 ###### 📷 **Screenshots / Dashboard Preview**
 
 Executive Overview
-!\[image alt]([image\_url](https://github.com/Ashmit-299/Supply-Chain-Business-Transformation-Dashboard/blob/91a5dbd3d4fbeb7ea1336cc51d1649a50185af6e/images/Executive%20Overview.png))
+!\[image alt]((https://github.com/Ashmit-299/Supply-Chain-Business-Transformation-Dashboard/blob/91a5dbd3d4fbeb7ea1336cc51d1649a50185af6e/images/Executive%20Overview.png))
 
 Sales Analytics
-!\[image alt]([image\_url](https://github.com/Ashmit-299/Supply-Chain-Business-Transformation-Dashboard/blob/91a5dbd3d4fbeb7ea1336cc51d1649a50185af6e/images/Sales%20Analytics.png))
+!\[image alt]((https://github.com/Ashmit-299/Supply-Chain-Business-Transformation-Dashboard/blob/91a5dbd3d4fbeb7ea1336cc51d1649a50185af6e/images/Sales%20Analytics.png))
 
 Order Analytics
-!\[image alt]([image\_url](https://github.com/Ashmit-299/Supply-Chain-Business-Transformation-Dashboard/blob/91a5dbd3d4fbeb7ea1336cc51d1649a50185af6e/images/Order%20Analytics.png))
+!\[image alt]((https://github.com/Ashmit-299/Supply-Chain-Business-Transformation-Dashboard/blob/91a5dbd3d4fbeb7ea1336cc51d1649a50185af6e/images/Order%20Analytics.png))
 
 Delivery Analytics
-!\[image alt]([image\_url](https://github.com/Ashmit-299/Supply-Chain-Business-Transformation-Dashboard/blob/91a5dbd3d4fbeb7ea1336cc51d1649a50185af6e/images/Delivery%20Analytics.png))
+!\[image alt]((https://github.com/Ashmit-299/Supply-Chain-Business-Transformation-Dashboard/blob/91a5dbd3d4fbeb7ea1336cc51d1649a50185af6e/images/Delivery%20Analytics.png))
 
 Product Analytics
-!\[image alt]([image\_url](https://github.com/Ashmit-299/Supply-Chain-Business-Transformation-Dashboard/blob/91a5dbd3d4fbeb7ea1336cc51d1649a50185af6e/images/Product%20Analytics.png))
+!\[image alt]((https://github.com/Ashmit-299/Supply-Chain-Business-Transformation-Dashboard/blob/91a5dbd3d4fbeb7ea1336cc51d1649a50185af6e/images/Product%20Analytics.png))
 
 Customer Analytics
-!\[image alt]([image\_url](https://github.com/Ashmit-299/Supply-Chain-Business-Transformation-Dashboard/blob/91a5dbd3d4fbeb7ea1336cc51d1649a50185af6e/images/Customer%20Analytics.png))
+!\[image alt]((https://github.com/Ashmit-299/Supply-Chain-Business-Transformation-Dashboard/blob/91a5dbd3d4fbeb7ea1336cc51d1649a50185af6e/images/Customer%20Analytics.png))
 
 Risk \& Insights
-!\[image alt]([image\_url](https://github.com/Ashmit-299/Supply-Chain-Business-Transformation-Dashboard/blob/91a5dbd3d4fbeb7ea1336cc51d1649a50185af6e/images/Risk%20%26%20Insights.png))
+!\[image alt]((https://github.com/Ashmit-299/Supply-Chain-Business-Transformation-Dashboard/blob/91a5dbd3d4fbeb7ea1336cc51d1649a50185af6e/images/Risk%20%26%20Insights.png))
 
 Business Recommendations
-!\[image alt]([image\_url](https://github.com/Ashmit-299/Supply-Chain-Business-Transformation-Dashboard/blob/91a5dbd3d4fbeb7ea1336cc51d1649a50185af6e/images/Recommendation.png))
+!\[image alt]((https://github.com/Ashmit-299/Supply-Chain-Business-Transformation-Dashboard/blob/91a5dbd3d4fbeb7ea1336cc51d1649a50185af6e/images/Recommendation.png))
 
 
 ###### 📁 **Project Structure**
