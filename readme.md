@@ -6,7 +6,7 @@ A professional, interactive Power BI dashboard built to analyze supply chain sal
 
 This project is designed as an EY-style consulting case study, where the goal is not only to visualize data but also to identify operational issues and convert insights into actionable business recommendations.
 
-
+![image alt](https://github.com/Ashmit-299/Supply-Chain-Business-Transformation-Dashboard/blob/8687027e6fe78e1aa7863d7c5284bb06d28061e5/images/Combined%20Look.png)
 
 ###### 📌 **Short Description / Purpose**
 
