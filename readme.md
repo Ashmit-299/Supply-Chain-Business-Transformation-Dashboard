@@ -736,9 +736,7 @@ The dashboard helps stakeholders monitor supply chain performance and identify i
 
 Ashmit Pandey
 
-GitHub: https://github.com/Ashmit-299
+Data Analyst | Power BI | SQL | Excel | DAX | Power Query
 
-LinkedIn: www.linkedin.com/in/ashmit-pandey-269675357
-
-Email: pandeyashmit299@gmail.com
+LinkedIn: www.linkedin.com/in/ashmit-pandey-data-analyst | GitHub: https://github.com/Ashmit-299
 
